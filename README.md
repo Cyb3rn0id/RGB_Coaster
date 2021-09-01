@@ -1,6 +1,8 @@
 ### RGB Coaster
 Very simple RGB Coaster I made for my wife.
-There are 2 parts to be 3D-Printed, are in the STL folder. In the groove of the base you can put a neopixel ring. I've used [this ring from amazon - affiliate link](https://amzn.to/3kHHtrB).
+There are 2 parts to be 3D-Printed, are in the STL folder. In the groove of the base you can put a neopixel ring. At the end of this doc I've put all reference link for things I've used.
+
+![RGB Coaster picture](./media/rgb_coaster.jpg)
 
 That ring has 24 WS2812 leds in 5050 format, an internal diameter of 70mm (2.75') and an external diameter of 85mm (3.35'). You must fix the ring in the grove using a small piece of scotch.
 
