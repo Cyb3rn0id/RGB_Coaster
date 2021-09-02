@@ -22,4 +22,5 @@ Links to amazon are valid for italian users and are affiliate links: things for 
 - [Tiny powerbank](https://amzn.to/3t1Lxqx)
 - [Tutorial about Digispark](https://www.settorezero.com/wordpress/dispositivi-usb-sulla-punta-di-un-dito-il-digispark/)
 - [I shared STLs on Thingiverse too](https://www.thingiverse.com/thing:4946799)
+- [Video](https://www.instagram.com/reel/CTT7h6HjDXR/)
 
